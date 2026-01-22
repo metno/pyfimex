@@ -1,0 +1,9 @@
+/.cache/clangd
+/.py-build-cmake_cache
+/.pytest_cache
+/.venv
+/compile_commands.json
+/dist
+/py-build-cmake.local.toml
+/uv.lock
+__pycache__
